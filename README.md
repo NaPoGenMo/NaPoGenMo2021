@@ -1,9 +1,10 @@
-# NaPoGenMo2017
+# NaPoGenMo2021
 
-National Poetry Generation Month 2017 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim. 
+National Poetry Generation Month 2021 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim.
 
-This is the 2017 edition. For previous years, see:
+This is the 2021 edition. For previous years, see:
 
+* [2017](https://github.com/NaPoGenMo/NaPoGenMo2017)
 * [2016](https://github.com/NaPoGenMo/NaPoGenMo2016)
 * [2015](https://github.com/NaPoGenMo/NaPoGenMo2015)
 
@@ -38,7 +39,10 @@ Also feel free to comment on other participants' issues.
 
 There's an [open issue](../../issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
 
-There are already a ton of resources on the old resources thread for the [2015 edition](https://github.com/NaPoGenMo/NaPoGenMo2015/issues/1), and the [2016 edition](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1).
+There are already a ton of resources on the old resources threads from
+[2015](https://github.com/NaPoGenMo/NaPoGenMo2015/issues/1),
+[2016](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1),
+and [2017](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1).
 
 ## That's It
 
